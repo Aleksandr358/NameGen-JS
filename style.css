@@ -1,0 +1,43 @@
+#firstNameOutput {
+    color : #444;
+    font : bold 25px times, Times New Roman, times-roman, georgia, serif;
+    letter-spacing : -2px;
+    line-height : 44px;
+    text-align : center;
+    text-transform: uppercase;
+}
+
+h4 {
+    color : #444;
+    font : bold 25px times, Times New Roman, times-roman, georgia, serif;
+    letter-spacing : -2px;
+    line-height : 44px;
+    text-align : center;
+}
+
+#surnameOutput {
+    color : #444;
+    font : bold 35px times, Times New Roman, times-roman, georgia, serif;
+    letter-spacing : -2px;
+    line-height : 44px;
+    text-align : center;
+    text-transform: uppercase;
+}
+
+#genderOutput, #birthYearOutput {
+    color : #444;
+    font : bold 25px times, Times New Roman, times-roman, georgia;
+    letter-spacing : -2px;
+    line-height : 44px;
+    text-align : center;
+    text-transform: uppercase;
+}
+
+.card-header {
+    background-color: aqua;
+}
+
+.card-body {
+    background-color: rgb(171, 221, 248);
+    border: 5px;
+}
